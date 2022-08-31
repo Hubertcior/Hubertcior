@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hubertcior |
-- 📆 I'm 16yo |
+- 📆 I'm 17yo |
 - 👀 I’m interested in Computers |
 - 👨‍🎓 I'm a student of a technical school |
 - 🌱 I’m currently learning C++,html,css,php |
