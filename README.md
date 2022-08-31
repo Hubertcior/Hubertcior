@@ -6,3 +6,4 @@
 - 📫 How to reach me DM |
 - 🧑 I want to be a programmer |
 - 🖥️ I want to know Java,C++,C#,Python |
+- 🎮 I'm a RUST player :)
