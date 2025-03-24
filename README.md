@@ -7,3 +7,5 @@
 - 🧑 I want to be a programmer |
 - 🖥️ I want to know Java,C++,C#,Python |
 - 🎮 I'm a RUST player :)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TwojNick&show_icons=true&theme=radical)
