@@ -22,3 +22,7 @@ I'm Hubert Radziwiński, a Computer Science student from Rzeszów, currently in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
+
+### ⏳ Weekly coding time
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
