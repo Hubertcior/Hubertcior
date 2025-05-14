@@ -27,3 +27,8 @@ I'm Hubert Radziwiński, a Computer Science student from Rzeszów, currently in 
 ## 🧠 My LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Hubertcior?theme=dark&font=Maven%20Pro&ext=contest)](https://leetcode.com/Hubertcior)
+
+## 🔝 My main programming language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hubertcior&layout=compact&theme=radical)
+
