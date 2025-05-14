@@ -7,6 +7,7 @@ I'm Hubert Radziwiński, a Computer Science student from Rzeszów, currently in 
 - 💻 Passionate about **React**, **JavaScript**, and modern web technologies
 - 🌱 Currently improving my skills in **TypeScript** and **Next.js**
 - 🔍 Open to collaborations and new opportunities in frontend development
+
 ## Skills
 
 <p align="left">
@@ -23,6 +24,6 @@ I'm Hubert Radziwiński, a Computer Science student from Rzeszów, currently in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-### ⏳ Weekly coding time
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## 🧠 My LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Hubertcior?theme=dark&font=Maven%20Pro&ext=contest)](https://leetcode.com/Hubertcior)
