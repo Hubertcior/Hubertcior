@@ -1,9 +1,9 @@
 # Hi there! 👋
 
-I'm Hubert Radziwiński, a Computer Science student from Rzeszów, currently in my first year of studies. I'm passionate about web development and actively seeking my first job as a **Junior Frontend Developer**.
+I'm Hubert Radziwiński, a Computer Science student from Rzeszów, currently in my second year of studies. I'm passionate about web development and actively seeking my first job as a **Junior Frontend Developer**.
 
 ### 🚀 About Me:
-- 🎓 First-year Computer Science student
+- 🎓 Second-year Computer Science student
 - 💻 Passionate about **React**, **JavaScript**, and modern web technologies
 - 🌱 Currently improving my skills in **TypeScript** and **Next.js**
 - 🔍 Open to collaborations and new opportunities in frontend development
