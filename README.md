@@ -22,10 +22,6 @@ I'm Hubert Radziwiński, a Computer Science student from Rzeszów, currently in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-## 🧠 My LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Hubertcior?theme=dark&font=Maven%20Pro&ext=contest)](https://leetcode.com/Hubertcior)
-
 ## 🔝 Git stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hubertcior&layout=compact&theme=radical)
