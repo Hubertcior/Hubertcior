@@ -3,26 +3,31 @@
 I'm Hubert Radziwiński, a Computer Science student from Rzeszów, currently in my second year of studies. I'm passionate about web development and actively seeking my first job as a **Junior Frontend Developer**.
 
 ### 🚀 About Me:
-- 🎓 Second-year Computer Science student
-- 💻 Passionate about **React**, **JavaScript**, and modern web technologies
-- 🌱 Currently improving my skills in **TypeScript** and **Next.js**
-- 🔍 Open to collaborations and new opportunities in frontend development
+- 🎓 Second-year Computer Science student.
+- 💻 Passionate about **software enginnering**.
+- 🌱 Currently improving my skills in **TypeScript** and **Next.js**, and trying some backend.
+- 🔍 Open to collaborations and new opportunities in frontend development.
 
-## Skills
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+## My stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML 5-black?style=for-the-badge&logo=html5" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css" alt="CSS"/>
+  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript" alt="typescript"/>
+  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss" alt="tailwind"/>
+  <img src="https://img.shields.io/badge/nextJS-black?style=for-the-badge&logo=next.js" alt="NEXTJS"/>
 </p>
 
-## 🔝 Git stats
+## Im currently learning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hubertcior&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="NODE.JS"/>
+  <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express" alt="Express"/>
+</p>
+
+
+## 👇 Projects that prove my stack 👇
+
+
 
